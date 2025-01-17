@@ -1,0 +1,14 @@
+c:\Users\Suporte\Documents\Raphael\pti\bin\Debug\net9.0\pti.exe
+C:\Users\Suporte\Documents\Raphael\pti\bin\Debug\net9.0\pti.deps.json
+C:\Users\Suporte\Documents\Raphael\pti\bin\Debug\net9.0\pti.runtimeconfig.json
+c:\Users\Suporte\Documents\Raphael\pti\bin\Debug\net9.0\pti.dll
+c:\Users\Suporte\Documents\Raphael\pti\bin\Debug\net9.0\pti.pdb
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.AssemblyInfoInputs.cache
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.AssemblyInfo.cs
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.csproj.CoreCompileInputs.cache
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.dll
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\refint\pti.dll
+c:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.pdb
+C:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\pti.genruntimeconfig.cache
+C:\Users\Suporte\Documents\Raphael\pti\obj\Debug\net9.0\ref\pti.dll
